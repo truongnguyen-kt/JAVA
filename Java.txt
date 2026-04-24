@@ -1,0 +1,11 @@
+1. Java là gì?
+- 1991: ra đời với tên gọi Oak bởi Sun Microsystem
+- 1995: đổi tên thành Java (tên hòn đảo trồng cafe tại Indonesia) => logo của Java
+- 2010: Oracle mua lại
+
+2. Đặc điểm java
+- Write once, run aniwhere
+- Hướng đối tượng (OOP)
+- Chạy trên mọi nền tảng
+- Bảo mật cao
+- Đa luồng
